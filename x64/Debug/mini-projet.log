@@ -1,0 +1,3 @@
+﻿  mini-projet.cpp
+C:\Users\akram\OneDrive\Bureau\mini-projet\mini-projet\mini-projet.cpp(78,88): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  mini-projet.vcxproj -> C:\Users\akram\OneDrive\Bureau\mini-projet\x64\Debug\mini-projet.exe

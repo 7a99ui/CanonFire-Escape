@@ -1,0 +1,2 @@
+C:\Users\akram\OneDrive\Bureau\sokoban\mini-projet\x64\Debug\mini-projet.exe
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\x64\Debug\mini-projet.exe

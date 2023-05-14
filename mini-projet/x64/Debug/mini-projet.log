@@ -1,0 +1,11 @@
+﻿  mini-projet.cpp
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(415,98): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(423,98): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(425,99): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(702,101): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(712,102): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(718,101): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(728,102): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(737,67): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\mini-projet\mini-projet.cpp(747,68): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  mini-projet.vcxproj -> C:\Users\akram\OneDrive\Bureau\c++\CanonFire-Escape\x64\Debug\mini-projet.exe
